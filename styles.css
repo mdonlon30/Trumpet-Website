@@ -44,6 +44,7 @@
     width: 20%;
     margin: 2%;
     box-sizing: border-box;
+    border: 3px solid red;
 }
 
 .card img{
@@ -53,6 +54,12 @@
 
 .card p {
     margin-top: 20px;
+}
+
+.type {
+    text-align: center;
+    color: gold;
+    text-shadow: 3px 3px black;
 }
 
 @media (max-width: 1022px) {
