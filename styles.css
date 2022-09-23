@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .nav {
@@ -35,7 +36,6 @@
 .title {
     text-align: center;
     font-size: clamp(30px, 4vw, 70px);
-    font-family: fantasy;
     text-shadow: 5px 5px rosybrown;
 }
 
